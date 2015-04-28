@@ -1,0 +1,25 @@
+html
+{
+background: url(http://www.gloroll.com/img/GreyBG.jpg) no-repeat center center fixed;
+}
+
+body
+{
+margin-top:100px;
+margin-bottom:200px;
+}
+
+p
+{
+text-align: center;
+margin-left.auto;
+margin-right:auto;
+}
+
+.center
+{
+text-align: center;
+margin-left:auto;
+margin-right:auto;
+width:85%;
+}
